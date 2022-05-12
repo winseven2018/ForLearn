@@ -1,4 +1,4 @@
-package com.winseven.Struct;
+package com.winseven.DataStructure.Struct;
 
 public class Node<T> {
     //数据域

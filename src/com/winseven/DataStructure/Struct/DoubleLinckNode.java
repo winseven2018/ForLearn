@@ -1,4 +1,4 @@
-package com.winseven.Struct;
+package com.winseven.DataStructure.Struct;
 
 public class DoubleLinckNode<T> {
     // 数据域

@@ -1,6 +1,6 @@
-package com.winseven;
+package com.winseven.DataStructure;
 
-import com.winseven.Struct.Node;
+import com.winseven.DataStructure.Struct.Node;
 
 //单向链表
 public class LinkList<T> {

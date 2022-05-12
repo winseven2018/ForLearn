@@ -1,4 +1,4 @@
-package com.winseven;
+package com.winseven.DataStructure;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
-package com.winseven;
+package com.winseven.DataStructure;
 
-import com.winseven.Struct.DoubleLinckNode;
+import com.winseven.DataStructure.Struct.DoubleLinckNode;
 
 //双向链表
 public class DoubleLink<T> {
